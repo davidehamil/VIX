@@ -4,24 +4,24 @@
 ### Project Code Overview
 
 #### Data Query & Cleaning
-$SPX_Options.ipynb$
-$SPX_Returns.ipynb$
-$VIX_Futures.ipynb$
-$VIX_Futures_from_Options.ipynb$
-$VIX_Options_Model.ipynb$
-$EOD_DataClean.ipynb$
+_SPX_Options.ipynb_
+_SPX_Returns.ipynb_
+_VIX_Futures.ipynb_
+_VIX_Futures_from_Options.ipynb_
+_VIX_Options_Model.ipynb_
+_EOD_DataClean.ipynb_
 
 #### Dataset Construction
-$Master_Dataframe.ipynb$
+_Master_Dataframe.ipynb_
 
 #### Analysis & Modeling
-$Time Series Analysis.ipynb$
-$Alternative_Null_Model.ipynb$
-$Seasonality_Check.ipynb$
-$Modeling_Regression & Quantile Classification.ipynb$
+_Time Series Analysis.ipynb_
+_Alternative_Null_Model.ipynb_
+_Seasonality_Check.ipynb_
+_Modeling_Regression & Quantile Classification.ipynb_
 
 
 ### Project Summary & Results
-$VIX_Capstone Final Report$
+_VIX_Capstone Final Report_
 
 
