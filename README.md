@@ -1,5 +1,5 @@
 # VIX
-## An NYU CDS Capstone Project
+### An NYU CDS Capstone Project
 
 ### Project Code Overview
 #### Data Query & Cleaning
