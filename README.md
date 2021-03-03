@@ -2,7 +2,6 @@
 ## An NYU CDS Capstone Project
 
 ### Project Code Overview
-
 #### Data Query & Cleaning
 _SPX_Options.ipynb_\
 _SPX_Returns.ipynb_\
@@ -20,8 +19,7 @@ _Alternative_Null_Model.ipynb_\
 _Seasonality_Check.ipynb_\
 _Modeling_Regression & Quantile Classification.ipynb_
 
-
-### Project Summary & Results
+#### Project Summary & Results
 _VIX_Capstone Final Report.pdf_
 
 
